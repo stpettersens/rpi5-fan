@@ -18,11 +18,11 @@ ExecStart=/usr/local/bin/control_fan 0
 ```
 
 Manual invokation once installed (not recommended, for reference only):
-`sudo/doas control_fan <speed>`
+>`sudo/doas control_fan <speed>`
 
 If you are writing a service for a init system,
 you will want to run as the root user and invoke:
-`/usr/local/bin/control_fan <speed>`
+>`/usr/local/bin/control_fan <speed>`
 
 Where **speed** is one of the Integers below:
 
