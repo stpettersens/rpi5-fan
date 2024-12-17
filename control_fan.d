@@ -151,6 +151,6 @@ int main(string[] args) {
             return display_usage(-1);
         }
     }
-    
+
     return display_usage(0);
 }
