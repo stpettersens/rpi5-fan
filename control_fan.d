@@ -2,7 +2,7 @@
    This is a program to control the fan on a Rpi 4 or 5 computer.
    I have only tested it so far on an Rpi 5 with the official fan kit
    running Ubuntu 24.04.1 LTS ("noble") imaged with rpi-imager.
-   Author: Sam Saint-Pettersena
+   Author: Sam Saint-Pettersen
    Version: 0.1.0
    Last updated: 2024-12-17
 */
