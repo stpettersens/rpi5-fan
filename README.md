@@ -9,8 +9,8 @@ Requirements:
 * [upx](https://github.com/upx/upx)
 * [SystemD (for provided service)](https://github.com/systemd/systemd)
 
-SystemD service is configured to run at 3 speed (FanSpeed.HIGH), to use
-automatic fan speed based on temperature thresholds, change
+SystemD service is configured to run at 3 speed (FanSpeed.HIGH).
+To use automatic fan speed based on temperature thresholds, change
 the following line in the `control_fan_systemd.service` file before
 installing the service to be:
 ```
