@@ -24,7 +24,7 @@ If you are writing a service for a init system,
 you will want to run as the root user and invoke:
 `/usr/local/bin/control_fan <speed>`
 
-Where <speed> is one of the Integers below:
+Where **speed** is one of the Integers below:
 
 |Integer|Fan Speed | Temp |
 |-----|-------------------|------|
