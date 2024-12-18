@@ -26,13 +26,13 @@ you will want to run as the root user and invoke:
 
 Where **speed** is one of the Integers below:
 
-|Integer|Fan Speed | Temp |
-|-----|-------------------|------|
-|  4  | FanSpeed.FULL      | >= 50°C|
-|  3  | FanSpeed.HIGH     | >= 40°C|
-|  2  | FanSpeed.MEDIUM   | >= 30°C|
-|  1  | FanSpeed.LOW      | >=  0°C|
-|  0  | FanSpeed.AUTOMATIC | As above |
+|Integer | Fan Speed          | Temp     |
+|--------|--------------------|----------|
+|  4     | FanSpeed.FULL      | >= 50°C  |
+|  3     | FanSpeed.HIGH      | >= 40°C  |
+|  2     | FanSpeed.MEDIUM    | >= 30°C  |
+|  1     | FanSpeed.LOW       | >=  0°C  |
+|  0     | FanSpeed.AUTOMATIC | As above |
 
 Build:
 `make`
