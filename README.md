@@ -1,3 +1,4 @@
+<!-- Updated to use s dot stpettersen plus gmail at gmail dot com -->
 ### Rpi5 control fan program
 This is a small D program to control a Rpi5 computer's fan based on:
 https://github.com/NikPiermafrost/rpi5-ubuntu-server-fan-script
